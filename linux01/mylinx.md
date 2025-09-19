@@ -104,4 +104,17 @@ DHCP — сетевой протокол, который позволяет ус
 ![img1](img/part9.6.png)
 ![img1](img/part9.7.png)
 
+## Part 10. Использование утилиты fdisk
+![img1](img/part10.1.png)
+![img1](img/part10.2.png)
+![img1](img/part10.3.png)
+
+## Part 11. Использование утилиты df
+![img1](img/part11.1.png)
+![img1](img/part11.2.png)
+
+## Part 12. Использование утилиты du
+![img1](img/part12.1.png)
+![img1](img/part12.2.png)
+
 
