@@ -12,10 +12,9 @@ cat /etc/issue
 sudo adduser max
 ```
 
-![](/home/leggrowc/Изображения/Снимки экрана/part2.Снимок экрана от 2025-09-11 21-59-01.png)
-
+![img1](img/part2.1.png)
 ```
 sudo addgroup adm max
 ```
 
-![](/home/leggrowc/Изображения/Снимки экрана/part2.Снимок экрана от 2025-09-11 22-02-10.png)
+![img1](img/part2.2.png)
