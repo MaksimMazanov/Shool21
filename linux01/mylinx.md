@@ -62,8 +62,25 @@ DHCP — сетевой протокол, который позволяет ус
 ![img1](img/part4.2.png)
 ![img1](img/part4.3.png)
 
-## 
-Part 5. Использование команды sudo
+## Part 5. Использование команды sudo
 ![img1](img/part5.1.png)
 ![img1](img/part5.2.png)
+
+## Part 6. Установка и настройка службы времени
+![img1](img/part6.1.png)
+
+## Part 7. Установка и использование текстовых редакторов
+![img1](img/part7.1.png)
+![img1](img/part7.2.png)
+![img1](img/part7.3.png)
+![img1](img/part7.4.png)
+![img1](img/part7.6.png)
+![img1](img/part7.7.png)
+![img1](img/part7.8.png)
+![img1](img/part7.9.png)
+![img1](img/part7.10.png)
+![img1](img/part7.11.png)
+![img1](img/part7.12.png)
+![img1](img/part7.13.png)
+![img1](img/part7.14.png)
 
