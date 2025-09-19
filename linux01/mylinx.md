@@ -84,3 +84,24 @@ DHCP — сетевой протокол, который позволяет ус
 ![img1](img/part7.13.png)
 ![img1](img/part7.14.png)
 
+## Part 8. Установка и базовая настройка сервиса SSHD
+![img1](img/part8.1.png)
+![img1](img/part8.2.png)
+![img1](img/part8.3.png)
+![img1](img/part8.4.png)
+![img1](img/part8.6.png)
+![img1](img/part8.7.png)
+
+## Part 9. Установка и использование утилит top, htop
+![img1](img/part9.1.png)
+![img1](img/part9.2.png)
+![img1](img/part9.3.png)
+![img1](img/part9.4.png)
+![img1](img/part9.6.png)
+![img1](img/part9.7.png)
+![img1](img/part9.8.png)
+![img1](img/part9.9.png)
+![img1](img/part9.10.png)
+![img1](img/part9.11.png)
+
+
