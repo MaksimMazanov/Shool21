@@ -28,7 +28,6 @@ sudo cat /etc/passwd
 ![img1](img/part3.2.png)
 ![img1](img/part3.3.png)
 ![img1](img/part3.4.png)
-![img1](img/part3.5.png)
 ![img1](img/part3.6.png)
 ![img1](img/part3.7.png)
 ![img1](img/part3.8.png)
