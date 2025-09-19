@@ -91,6 +91,10 @@ DHCP — сетевой протокол, который позволяет ус
 ![img1](img/part8.4.png)
 ![img1](img/part8.6.png)
 ![img1](img/part8.7.png)
+![img1](img/part8.8.png)
+![img1](img/part8.9.png)
+![img1](img/part8.10.png)
+![img1](img/part8.11.png)
 
 ## Part 9. Установка и использование утилит top, htop
 ![img1](img/part9.1.png)
@@ -99,9 +103,5 @@ DHCP — сетевой протокол, который позволяет ус
 ![img1](img/part9.4.png)
 ![img1](img/part9.6.png)
 ![img1](img/part9.7.png)
-![img1](img/part9.8.png)
-![img1](img/part9.9.png)
-![img1](img/part9.10.png)
-![img1](img/part9.11.png)
 
 
