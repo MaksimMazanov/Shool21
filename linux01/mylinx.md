@@ -18,3 +18,7 @@ sudo addgroup adm max
 ```
 
 ![img1](img/part2.2.png)
+```
+sudo cat /etc/passwd
+```
+![img1](img/part2.3.png)
