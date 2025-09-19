@@ -6,7 +6,7 @@ cat /etc/issue
 
 ![img1](img/part1.1.png)
 
-## part2.
+## part2. Создание пользователя
 
 ```
 sudo adduser max
