@@ -4,7 +4,7 @@
 cat /etc/issue
 ```
 
-![](/home/leggrowc/Изображения/Снимки экрана/part1.Снимок экрана от 2025-09-10 23-43-41.png)
+![](/images/part1.1.png)
 
 ## part2.
 
