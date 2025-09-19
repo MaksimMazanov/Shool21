@@ -117,4 +117,20 @@ DHCP — сетевой протокол, который позволяет ус
 ![img1](img/part12.1.png)
 ![img1](img/part12.2.png)
 
+## Part 13. Установка и использование утилиты ncdu
+![img1](img/part13.1.png)
+![img1](img/part13.2.png)
+![img1](img/part13.3.png)
+
+## Part 14. Работа с системными журналами
+![img1](img/part14.1.png)
+![img1](img/part14.2.png)
+![img1](img/part14.3.png)
+
+## Part 15. Использование планировщика заданий CRON
+![img1](img/part15.1.png)
+![img1](img/part15.2.png)
+![img1](img/part15.3.png)
+![img1](img/part15.4.png)
+
 
