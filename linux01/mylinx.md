@@ -4,7 +4,7 @@
 cat /etc/issue
 ```
 
-![](/img/part1.1.png)
+![](img/part1.1.png)
 
 ## part2.
 
